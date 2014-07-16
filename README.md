@@ -1,6 +1,6 @@
 # Service-oriented Architecture with Node.js
 
-Members: [Matias Meneses](github.com/matias), Rj Bernaldo
+Members: [Matias Meneses](http://github.com/mameneses), Rj Bernaldo
 
 ## Introduction
 
