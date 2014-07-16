@@ -5,8 +5,10 @@ Members: [Matias Meneses](github.com/matias), Rj Bernaldo
 ## Introduction
 
 Create an MVC project broken down into two parts:
-1. Model & database will be a it's own web app (serve API using Grape)
-2. View rendering & Controller logic will be on a different web app using Node
+
+
+1. Model & database will be it's own web app (serve API using Grape)
+2. View rendering & Controller logic will be on a different web app using Node.js
 
 ## Poject Milestones
 
