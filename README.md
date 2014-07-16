@@ -1,7 +1,5 @@
 # Service-oriented Architecture with Node.js
 
-Project on server-side architecture using Node.js.
-
 Members: [Matias Meneses](github.com/matias), Rj Bernaldo
 
 ## Introduction
